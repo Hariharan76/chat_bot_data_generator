@@ -1,0 +1,4 @@
+I want to buy {free_plans}
+I am interested in buying {free_plans}
+I am planning on purchasing {free_plans} plan
+Can you help me to sign up for {free_plans} plan

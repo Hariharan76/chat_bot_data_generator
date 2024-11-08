@@ -1,0 +1,2 @@
+For the {free_plans} plan, maximum allowed users are 3. How many users do you want?
+Your {free_plans} plan has a maximum of 3 users in the free version. How many users do you have ?

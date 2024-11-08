@@ -1,0 +1,5 @@
+my phone number is {correct_mobile_number}
+this is my mobile number {correct_mobile_number}
+{correct_mobile_number}
+{correct_mobile_number}
+{correct_mobile_number}

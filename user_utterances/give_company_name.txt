@@ -1,0 +1,4 @@
+Sure. my company's name is {company_names}
+{company_names}
+{company_names}
+my company is {company_names}

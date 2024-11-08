@@ -1,0 +1,3 @@
+Thanks for choosing {free_plans} plan. To get started may I know your full name for the record?
+I can help you with the sign up process. First, I need your full name for the record.
+Thank you for your interest in the {free_plans} plan. Let me start the signup process for you. To begin with please give me your full name.

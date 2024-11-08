@@ -1,0 +1,4 @@
+My full name is {full_names}
+{full_names}
+{full_names}
+my name is {full_names}

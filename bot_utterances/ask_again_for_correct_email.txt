@@ -1,0 +1,4 @@
+Looks like the email id you gave is not in the correct format. Could you please give the email id in the correct format?
+The email id you provided is not in the correct format. Can you please send it in the correct format? For eg. example@gmail.com 
+It seems the email you provided is not in the correct format. Could you please re-send it again?
+Email id is not in the correct format. Please share your email id in the correct format like example@gmail.com

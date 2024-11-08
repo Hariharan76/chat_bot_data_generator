@@ -1,0 +1,4 @@
+Hello {user_names}.I am Xaia. How can I help you?
+Hi {user_names}. How can I help you
+Hello {user_names}. I am Xaia. I can assist you with Worktual related queries. How can I help you today?
+Hi {user_names}. I am Xaia - Worktual's Assistant. How can I assist you today?
